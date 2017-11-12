@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es3",
+    "lib": ["es2015", "es2016", "es2017", "esnext", "dom"],
+    "allowJs": true,
+    "jsx": "preserve",
+    "removeComments": true,
+    "downlevelIteration": true,
+    "isolatedModules": false,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": false,
+    "emitDecoratorMetadata": false,
+    "types": ["node"],
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
+  "files": [
+    "node_modules/phaser-ce/typescript/phaser.d.ts",
+    "node_modules/phaser-ce/typescript/pixi.d.ts",
+    "node_modules/phaser-ce/typescript/p2.d.ts"
+  ]
+}
