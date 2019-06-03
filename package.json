@@ -15,7 +15,7 @@
     "fuse-box": "2.5.0-beta.1",
     "node-sass": "4.12.0",
     "rollup": "0.68.2",
-    "ts-loader": "3.1.1",
+    "ts-loader": "3.5.0",
     "typescript": "2.6.1",
     "typings": "2.1.1",
     "uglify-js": "3.1.9",
