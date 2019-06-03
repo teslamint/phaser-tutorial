@@ -14,7 +14,7 @@
     "cross-env": "5.2.0",
     "fuse-box": "2.5.0-beta.1",
     "node-sass": "4.6.1",
-    "rollup": "0.51.5",
+    "rollup": "0.68.2",
     "ts-loader": "3.1.1",
     "typescript": "2.6.1",
     "typings": "2.1.1",
