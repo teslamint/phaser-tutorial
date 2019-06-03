@@ -1,0 +1,11 @@
+{
+  "automerge": true,
+  "automergeType": "pr-comment",
+  "automergeComment": "@teslamint: r+",
+  "major": {
+    "automerge": false
+  },
+  "extends": [
+    "config:base"
+  ]
+}
