@@ -2,6 +2,7 @@
   "automerge": true,
   "automergeType": "pr-comment",
   "automergeComment": "@teslamint: r+",
+  "requiredStatusChecks": null,
   "major": {
     "automerge": false
   },
