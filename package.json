@@ -16,7 +16,7 @@
     "node-sass": "4.12.0",
     "rollup": "1.17.0",
     "ts-loader": "6.0.4",
-    "typescript": "3.5.3",
+    "typescript": "3.6.2",
     "typings": "2.1.1",
     "uglify-js": "3.6.0",
     "webpack": "4.36.1"
