@@ -11,7 +11,7 @@
     "babel-core": "6.26.3",
     "babel-plugin-transform-react-jsx": "6.24.1",
     "babel-preset-es2015": "6.24.1",
-    "cross-env": "5.2.1",
+    "cross-env": "6.0.0",
     "fuse-box": "3.7.1",
     "node-sass": "4.12.0",
     "rollup": "1.21.4",
