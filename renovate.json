@@ -1,7 +1,6 @@
 {
   "automerge": true,
-  "automergeType": "branch,pr-comment",
-  "automergeComment": "@teslamint: r+",
+  "automergeType": "branch",
   "requiredStatusChecks": null,
   "major": {
     "automerge": false
