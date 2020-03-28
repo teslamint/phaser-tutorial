@@ -18,7 +18,7 @@
     "ts-loader": "6.2.2",
     "typescript": "3.8.3",
     "typings": "2.1.1",
-    "uglify-js": "3.8.0",
+    "uglify-js": "3.8.1",
     "webpack": "4.42.1"
   },
   "scripts": {
