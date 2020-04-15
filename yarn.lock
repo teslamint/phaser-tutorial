@@ -5151,9 +5151,9 @@ typings@2.1.1:
     wordwrap "^1.0.0"
     xtend "^4.0.1"
 
-uglify-js@3.9.0:
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.9.0.tgz#037163a936992050ed5d14f5d5c4014126019661"
+uglify-js@3.9.1:
+  version "3.9.1"
+  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.9.1.tgz#a56a71c8caa2d36b5556cc1fd57df01ae3491539"
   dependencies:
     commander "~2.20.3"
 
