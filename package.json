@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "phaser-ce": "2.15.0"
+    "phaser-ce": "2.15.1"
   },
   "devDependencies": {
     "babel-core": "6.26.3",
