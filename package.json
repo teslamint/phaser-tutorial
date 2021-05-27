@@ -19,7 +19,7 @@
     "typescript": "4.3.2",
     "typings": "2.1.1",
     "uglify-js": "3.13.8",
-    "webpack": "5.37.1"
+    "webpack": "5.38.0"
   },
   "scripts": {
     "dev": "cross-env NODE_ENV=development node build/run",
