@@ -2919,10 +2919,10 @@ performance-now@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
 
-phaser-ce@2.19.0:
-  version "2.19.0"
-  resolved "https://registry.yarnpkg.com/phaser-ce/-/phaser-ce-2.19.0.tgz#b89d96eb8db1ea2c12a4224bca1c83039c178ea9"
-  integrity sha512-rRMdsIv3l+zzOHVK+7Xc1wLIsjuhEaaki9Mr58ofDGpscGUub1/vWhtIqt24otuqDbexYHZvoJgtLO62/OD5/Q==
+phaser-ce@2.19.1:
+  version "2.19.1"
+  resolved "https://registry.yarnpkg.com/phaser-ce/-/phaser-ce-2.19.1.tgz#74cd86648f269ef3acdefff461fe37605bd906dd"
+  integrity sha512-7NUQ6vBQGgrC7HdP+Utg5qGcJM/c4Gj+O//UYRKDY6njpEo89O4qsQznHJ8faZzeWFxDbr4euXV6UT6Wmh8egw==
 
 picomatch@^2.0.4, picomatch@^2.2.1:
   version "2.2.2"
