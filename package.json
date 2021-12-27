@@ -13,7 +13,7 @@
     "babel-preset-es2015": "6.24.1",
     "cross-env": "7.0.3",
     "fuse-box": "4.0.0",
-    "node-sass": "7.0.0",
+    "node-sass": "7.0.1",
     "rollup": "2.62.0",
     "ts-loader": "9.2.6",
     "typescript": "4.5.4",
